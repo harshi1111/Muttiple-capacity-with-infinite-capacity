@@ -12,8 +12,9 @@ Thus the average number of materials in the system and conveyor, waiting time of
 ![image](https://github.com/harshi1111/Muttiple-capacity-with-infinite-capacity/assets/84671735/55afa820-5ebe-45f6-a680-1b3466dd3742)
 ![image](https://github.com/harshi1111/Muttiple-capacity-with-infinite-capacity/assets/84671735/42083e83-e37c-4673-860c-21530cec1f50)
 ## Program :
-``` Developed By :Challa Sandeep
-Register.No :212221240011
+```
+DEVOLOPED BY : HARSHITHA V
+REGISTER NO  : 23002305
 ```
 ```
 import math
